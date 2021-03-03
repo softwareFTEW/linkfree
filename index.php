@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1"><title>SoftwareFTEW</title>
+   <link rel="stylesheet" href="style_main.css">
+   <link rel="stylesheet" href="style_custom.css">
+</head>
+
+<body>
+   <div class="container">
+
+      <div class="row mt-40 mb-40">
+         <div class="col">
+            <div class="text-center">
+               <img class="profile-image">
+               <h1 class="color-white">SoftwareFTEW</h1>
+            </div>
+         </div>
+      </div>
+      
+      <div class="row mb-40">
+         <div class="col">
+            <div class="text-center">
+               <a class="button shake" href="https://www.twitch.tv/softwareftew">Follow on Twitch</a>
+               <a class="button" href="https://twitter.com/SoftwareFTEW">Follow on Twitter</a>
+               <a class="button outline" href="https://www.linkedin.com/in/heikovogelgesang/">For business inquires: Connect On LinkedIn</a>
+            </div>
+         </div>
+      </div>
+      
+      <!--
+      # CSS NOT WORKING YET
+      <div class="row">
+         <div class="cards">
+            <div class="card">
+               <h5 class="card-header">SoftwareFTEW Snapback</h5>
+               <p class="card-body">Content</p>
+               <div class="card-footer center text-center"><p>Jetzt kaufen!</p></div>
+            </div>
+            <div class="card">
+               <h5 class="card-header">SoftwareFTEW T-Shirt</h5>
+               <p class="card-body">Content</p>
+               <div class="card-footer center text-center"><p>Jetzt kaufen!</p></div>
+            </div>
+         </div>
+      </div>
+      -->
+      
+      <div class="text-center">
+         <small><a href="https://github.com/softwareFTEW/linkfree" class="color-white">Build by SoftwareFTEW &middot; Source on GitHub</small>
+      </div>
+
+   </div>   
+</body>
+</html>
