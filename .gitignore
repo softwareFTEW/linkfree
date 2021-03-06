@@ -1,2 +1,6 @@
+# ignore all . files but include . folders
+.*
+!.*/
+
 github2
 github2.pub
